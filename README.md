@@ -36,5 +36,9 @@ move script to bin directory
 
 `sudo mv youtube /usr/bin/`
 
+run
+
+`youtube`
+
 
 **You're welcome, now you cant download youtube videos with comfortable!**
