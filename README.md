@@ -1,7 +1,4 @@
 # CLI-Youtube-Downloader
-CLI downloader youtube videos/songs/description/channel/preview for linux in python
-
-**CLI-Youtube-downloader**
 
 I can: download videos/music/channels/playlists/previews in different qualities from YouTube, play live without downloading in different qualities, extract description;
 
